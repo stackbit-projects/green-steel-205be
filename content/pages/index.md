@@ -22,7 +22,6 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
-    title: Features
     features:
       - title: ECHELON CONNECT EX-7S
         content: >
