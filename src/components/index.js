@@ -33,6 +33,7 @@ export {
     Layout,
     SectionActions,
     TeamSection
+    CrederaHero
 };
 
 export default {
