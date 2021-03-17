@@ -52,7 +52,7 @@ sections:
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /features
