@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
-
+import classes from '../css/hero.css';
 
 function MyApp({ Component, pageProps }) {
 
