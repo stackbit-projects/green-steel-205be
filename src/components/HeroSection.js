@@ -4,7 +4,7 @@ import _ from 'lodash';
 
 import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
-import classes from './BackgroundVideo.module.css';
+import classes from './';
 
 export default class HeroSection extends React.Component {
  
