@@ -14,6 +14,8 @@ export default class HeroSection extends React.Component {
             </video> 
 
         </div>
+
+        <div class="video-hero hero-container"> </div>
     }
 
 }
