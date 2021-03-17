@@ -25,10 +25,11 @@ sections:
     title: Features
     features:
       - title: ECHELON CONNECT EX-7S
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The newest bike from Echelon, the EX-7s will immediately upscale any
+          fitness facility. Echelon takes care of all the details by delivering
+          thousands of classes f rom motivating instructors along with current,
+          heart-pumping licensed music.
         align: left
         image: images/OffBikeClass_720x720_crop_center.jpeg
         image_alt: Feature 1 placeholder image
