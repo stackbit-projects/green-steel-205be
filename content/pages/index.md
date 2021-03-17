@@ -60,10 +60,15 @@ sections:
             url: /features
             style: secondary
       - title: ECHELON ROW-7S
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Enjoy a full-body, low-impact workout with our most advanced rower
+          yet. Equipped with a new, rotating, 22” HD screen, you can workout on
+          and off the Row-s by simply flipping the screen while immersing
+          yourself in classes and scenic rows alike. Stunningly-clear
+          resolution, rapid processing speed and Wi-Fi-enhancing dual antennas
+          make this screen a game-changer when it comes to turning your workout
+          into an experience. What's more, its dual audio jacks can be used to
+          create an all-encompassing rowing experience.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
