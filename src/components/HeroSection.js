@@ -15,7 +15,7 @@ export default class HeroSection extends React.Component {
                 <source src="https://cdn.shopify.com/s/files/1/2422/9487/files/EX7S_Gym_30sec_Cut2.mp4?v=1603803063" type="video/mp4" />
                 </video>
                 <div class="info-container homepage-hero" style="background-color: rgba(0, 0, 0, 0.4);"> 
-                    <div> <h1 ">Meet your fitness goals with Echelon.</h1> 
+                    <div> <h1>Meet your fitness goals with Echelon.</h1> 
                         <p>Echelon Commercial Offerings</p>
                     </div>
                 </div>
