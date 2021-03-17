@@ -10,7 +10,7 @@ export default class HeroSection extends React.Component {
  
     render() {
         return( 
-         <div className={classes.Container} >
+         <div } >
             <video autoPlay="autoplay" loop="loop" muted className={classes.Video} >
                 <source src={videoSource} type="video/mp4" />
                 Your browser does not support the video tag.
