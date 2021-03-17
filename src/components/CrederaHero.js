@@ -185,42 +185,7 @@ window.onload = function listenToButton() {
 }
 </style>
 
-<script>
 
-!(function(d){
-  var video2 = d.getElementById('video-banner2');
-  video2.volume = 0.0;
-
-
-  $('#volume-controller').click(function() {
-    if(video2.volume > 0.0) {
-      video2.volume = 0.0;
-      $('#volume-controller').removeClass('on');
-      $('#volume-controller').addClass('off');
-      console.log('VOLUME OFF');
-    } else {
-      video2.volume = 1.0;
-      $('#volume-controller').removeClass('off');
-      $('#volume-controller').addClass('on');
-      console.log('VOLUME ON');
-    }
-  }); 
-
-  $('#play-controller2').click(function() {
-    if(video2.paused) {
-      video2.play();
-      $('#play-controller2').removeClass('off');
-      $('#play-controller2').addClass('on');
-      console.log('PLAYING');
-    } else {
-      video2.pause();
-      $('#play-controller2').removeClass('on');
-      $('#play-controller2').addClass('off');
-      console.log('PAUSING');
-    }
-  });
-}(document));
-</script>
 
 </div>
 }
