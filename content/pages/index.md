@@ -51,7 +51,8 @@ sections:
           thoughtful construction, sophisticated engineering and an array of
           engaging workout classes, this bike has it all.
         align: left
-        image: images/feature.svg
+        image: >-
+          images/EX-PRO_UCFGym1126_copy_2x_720x720_crop_center_f622e9c5-2a8b-4366-81f7-9a0f29a66105_720x720_crop_center.jpeg
         image_alt: Feature 2 placeholder image
         image_position: right
         actions:
