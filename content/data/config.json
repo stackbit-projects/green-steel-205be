@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/Echelon_MainLogo_400x100.png"
+        "logo": "images/Echelon_MainLogo_400x100.png",
+        "logo_alt": "Echelon Fitness Commercial"
     },
     "footer": {
         "has_nav": true,
