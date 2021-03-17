@@ -18,7 +18,6 @@ export default class HeroSection extends React.Component {
   <div class="info-content"> <h1 class="hero-title">Meet your fitness goals with Echelon.</h1> <p class="credera-snippet copy-text ">
   Echelon Commercial Offerings
 </p>
-
             </div>
          </div>
         )
