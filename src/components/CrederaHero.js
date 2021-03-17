@@ -6,7 +6,7 @@ import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
-    render() {}
+    render() {
 
 <div id="shopify-section-commerical-hero" class="shopify-section credera-section home-hero">
 
