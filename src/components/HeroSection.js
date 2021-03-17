@@ -16,8 +16,8 @@ export default class HeroSection extends React.Component {
                 Your browser does not support the video tag.
             </video>
 
-            <div className={classes.Content}>
-                <div className={classes.SubContent} >
+            <div >
+                <div  >
                     <h1>Reactjs Course</h1>
                     <p>Learn how to develope React projects</p>
                     <button type="button" className="btn btn-outline-dark">View the course</button>
