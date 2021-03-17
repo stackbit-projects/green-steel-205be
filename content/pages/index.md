@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 
+    title: Echelon delivers personalized live and on-demand content to your guests
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
