@@ -7,8 +7,7 @@ import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
     render() {
-        return(
-            
+        return( 
         <div>
             <div class="video-hero hero-container">
                 <video poster="//cdn.shopify.com/s/files/1/2422/9487/files/Connect_EX-7s_-_Lifestyle_4-2048x1367-8d625cc_1024x768-2.jpg?v=1614883176" autoplay="true" muted="true" loop="true" playsinline="true" id="video-banner2"> 
