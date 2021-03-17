@@ -6,7 +6,7 @@ import {classNames, toStyleObj, withPrefix} from '../utils';
 import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
-    
+    const videoSource = "https://www.w3schools.com/tags/movie.mp4"
     render() {
         return( 
          <div className={classes.Container} >
