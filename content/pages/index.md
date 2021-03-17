@@ -94,6 +94,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/Reflect50_720x720_crop_center.png
   - type: blog_feed_section
     title: What's New
     show_recent: true
