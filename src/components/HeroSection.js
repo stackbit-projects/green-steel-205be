@@ -12,7 +12,7 @@ export default class HeroSection extends React.Component {
         return( 
          <div >
             <video autoPlay="autoplay" loop="loop" muted >
-                <source src=""https://www.w3schools.com/tags/movie.mp4" type="video/mp4" />
+                <source src="https://www.w3schools.com/tags/movie.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
 
