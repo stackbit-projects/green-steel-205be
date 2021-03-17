@@ -6,11 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "link"
-            },
-            {
                 "label": "Connect Bikes",
                 "url": "#",
                 "style": "link",
@@ -41,6 +36,11 @@
                 "no_follow": false,
                 "type": "action",
                 "url": "https://echelonfit.com"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "link"
             },
             {
                 "label": "Style Guide",
