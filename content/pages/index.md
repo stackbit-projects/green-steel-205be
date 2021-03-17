@@ -44,7 +44,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-      - title: Feature 2
+      - title: ECHELON EX-PRO
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
