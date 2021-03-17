@@ -32,7 +32,7 @@ export {
     HeroSection,
     Layout,
     SectionActions,
-    TeamSection
+    TeamSection,
     CrederaHero
 };
 
