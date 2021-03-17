@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Echelon delivers personalized live and on-demand content to your guests
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+     
     actions:
       - label: Learn More
         url: /features
