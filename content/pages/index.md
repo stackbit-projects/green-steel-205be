@@ -33,7 +33,7 @@ sections:
         align: left
         image: images/OffBikeClass_720x720_crop_center.jpeg
         image_alt: Feature 1 placeholder image
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /features
