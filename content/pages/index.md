@@ -30,7 +30,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/3.png
+        image: images/OffBikeClass_720x720_crop_center.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
