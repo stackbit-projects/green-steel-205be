@@ -13,7 +13,6 @@ export default class HeroSection extends React.Component {
                 <source src="https://cdn.shopify.com/s/files/1/2422/9487/files/EX7S_Gym_30sec_Cut2.mp4?v=1603803063" type="video/mp4" />
                 </video> 
             </div>
-
          </div>
     }
 
