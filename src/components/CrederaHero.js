@@ -222,10 +222,5 @@ window.onload = function listenToButton() {
 }(document));
 </script>
 
-
-
-
-
-
 </div>
 }
