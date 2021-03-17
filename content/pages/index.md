@@ -45,10 +45,11 @@ sections:
             no_follow: false
             type: action
       - title: ECHELON EX-PRO
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          When it comes to commercial indoor cycles, durability and flexibility
+          are everything--and we designed the EX-Pro with that in mind. From
+          thoughtful construction, sophisticated engineering and an array of
+          engaging workout classes, this bike has it all.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
