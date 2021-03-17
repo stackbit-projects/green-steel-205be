@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/Echelon_MainLogo_400x100.png"
     },
     "footer": {
         "has_nav": true,
