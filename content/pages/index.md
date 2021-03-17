@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Echelon delivers personalized live and on-demand content to your guests
     subtitle: >-
-     
+     Echelon commercial Offerings
     actions:
       - label: Learn More
         url: /features
