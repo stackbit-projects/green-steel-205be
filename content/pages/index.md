@@ -70,7 +70,8 @@ sections:
           into an experience. What's more, its dual audio jacks can be used to
           create an all-encompassing rowing experience.
         align: left
-        image: images/feature.svg
+        image: >-
+          images/Screenshot_2020-10-27_Echelon_Sell_Sheet_-_Row-7s_rower_pdf_720x720_crop_center.png
         image_alt: Feature 3 placeholder image
         image_position: left
         actions:
