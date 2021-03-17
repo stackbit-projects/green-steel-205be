@@ -7,7 +7,7 @@ import SectionActions from './SectionActions';
 
 export default class HeroSection extends React.Component {
     render() {
-        
+        <div id="shopify-section-commerical-hero" class="shopify-section credera-section home-hero"></div>
     }
 
 }
