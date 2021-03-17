@@ -14,7 +14,7 @@ import HeroSection from './HeroSection';
 import Layout from './Layout';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
-import CrederaHero
+import CrederaHero from './CrederaHero';
 
 export {
     Action,
