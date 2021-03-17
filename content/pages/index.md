@@ -77,7 +77,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
+      - title: ECHELON REFLECT
         content: >-
           ## Lorem ipsum
 
