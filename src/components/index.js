@@ -52,5 +52,6 @@ export default {
     HeroSection,
     Layout,
     SectionActions,
-    TeamSection
+    TeamSection,
+    CrederaHero
 };
