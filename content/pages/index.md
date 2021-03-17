@@ -78,17 +78,11 @@ sections:
             url: /features
             style: secondary
       - title: ECHELON REFLECT
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          This beautiful wall decor requires zero footprint. Yet it delivers a
+          multitude of motivating training methods. The Reflect will fit in at
+          any high-end gym, hotel, residential space or commercial space. The
+          specially made bracket secures the Reflect flush against the wall.
         align: left
         image_alt: lorem-ipsum
         image_position: left
