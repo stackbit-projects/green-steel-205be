@@ -8,18 +8,25 @@ import SectionActions from './SectionActions';
 export default class HeroSection extends React.Component {
     render() {
         return( 
-        <div>
-            <div class="video-hero hero-container">
-                <video poster="//cdn.shopify.com/s/files/1/2422/9487/files/Connect_EX-7s_-_Lifestyle_4-2048x1367-8d625cc_1024x768-2.jpg?v=1614883176" autoplay="true" muted="true" loop="true" playsinline="true" id="video-banner2"> 
-                <source src="https://cdn.shopify.com/s/files/1/2422/9487/files/EX7S_Gym_30sec_Cut2.mp4?v=1603803063" type="video/mp4" />
-                </video>
-                <div class="info-container homepage-hero"> 
-                    <div class="info-content"> <h1 class="hero-title">Meet your fitness goals with Echelon.</h1> 
-                        <p class="credera-snippet copy-text ">Echelon Commercial Offerings</p>
-                    </div>
+        const videoSource = "https://www.w3schools.com/tags/movie.mp4"
+    return (
+        <div className={classes.Container} >
+            <video autoPlay="autoplay" loop="loop" muted className={classes.Video} >
+                <source src={videoSource} type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+
+            <div className={classes.Content}>
+                <div className={classes.SubContent} >
+                    <h1>Reactjs Course</h1>
+                    <p>Learn how to develope React projects</p>
+                    <button type="button" className="btn btn-outline-dark">View the course</button>
+                    <img
+                        src="https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                        alt="profile" />
                 </div>
             </div>
-         </div>
+        </div>
         )
     }
 
