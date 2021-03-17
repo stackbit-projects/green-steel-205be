@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /features
             style: primary
-          - label: lorem-ipsum
+          - label: Other Button
             url: '#'
             style: secondary
             new_window: false
